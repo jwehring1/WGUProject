@@ -7,4 +7,4 @@ Requirements
 - Retrofit and GSON must be used
 - Should follow a structured android project layout
 
-Ui design was not considered so therefore I basic CardView's were used
+Ui design was not considered so therefore basic CardView's were used
